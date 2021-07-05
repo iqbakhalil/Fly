@@ -82,17 +82,7 @@ h3 {
   top: 0;
 }
 
-/* The dots/bullets/indicators */
-.dot {
-  cursor: pointer;
-  height: 15px;
-  width: 10px;
-  margin: 0 2px;
-  background-color: Blue;
-  border-radius:80%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
-}
+
 
 
 .active, .dot:hover {
