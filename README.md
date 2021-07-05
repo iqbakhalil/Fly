@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <title> Sabbir's Personal Website</title>
@@ -167,7 +167,7 @@ img {vertical-align: middle right;}
 <body>
 <section class="container">
        <div class="box">
-         <h1> Welcome to <span class=text color:"Blue"> Sabbir's </span> Website </h1>
+         <h1> Welcome to  Sabbir's  Website </h1>
          <h3> ~`Student~`  ~`Learner~`  ~`Developer~` </h3>
 
 <div class="slideshow-container">
@@ -176,7 +176,7 @@ img {vertical-align: middle right;}
   <div class="numbertext">1 / 3</div>
   <img src="sabbir9.png" style="width:50%">
   <div class="text">Developer</div>
-</div>
+
 
 <div class="mySlides fade">
   <div class="numbertext">2 / 3</div>
@@ -240,7 +240,8 @@ function showSlides(n) {
        <div class="box"> <img class="img" src="sabbir10.png">  </img>
         <a class="btn" href=""> <b>WhatsApp:01891873630 </b>   </a>
 
-        <br></br>
+        <br/>
+       
        </div>
        <div class="box"> 
         <h1> Dream </h1>
@@ -248,7 +249,9 @@ function showSlides(n) {
         <p> Now, I am studying at a reputed college in Bangladesh. I have a dream to be a business magnet. After completing my study,I will start to fulfill my dream successful. </p>
             Here is my instagram id.You may contact me here if you need.You may also follow me.Thank you!
      
-            <br></br>
+            <br/>
+         
+         
          <a class="btn" href="https://www.instagram.com/shossainbd303/"> My Instagram  </a>
        </div>
      </section>
