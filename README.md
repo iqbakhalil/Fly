@@ -9,16 +9,7 @@ font-style: serif;
 color: #777777;
 line-height:25px ;
 }
-.blue{
-color: #1E90FF ;
-}
-.box{
-width: 50%;
-float: left;
-}
-h3 {
 
-}
 .img { 
 width: 80%;
 padding-left:10% ;
