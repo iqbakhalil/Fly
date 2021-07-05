@@ -176,7 +176,6 @@ img {vertical-align: middle right;}
 
 
 
-</div>
 <br>
 
 <div style="text-align:center">
