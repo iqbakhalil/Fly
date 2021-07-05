@@ -170,25 +170,14 @@ img {vertical-align: middle right;}
          <h1> Welcome to  Sabbir's  Website </h1>
          <h3> ~`Student~`  ~`Learner~`  ~`Developer~` </h3>
 
-<div class="slideshow-container">
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
   <img src="sabbir9.png" style="width:50%">
-  <div class="text">Developer</div>
+  <div class="text">SABBIR</div>
 
 
-<div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
-  <img src="sabbir10.png" style="width:50%">
-  <div class="text">Learner</div>
-</div>
 
-<div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="sabbir0.png" style="width:50%">
-  <div class="text">Student</div>
-</div>
 
 
 
