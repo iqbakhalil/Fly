@@ -237,7 +237,7 @@ function showSlides(n) {
        </div>
      </section>
      <section class="container"> 
-       <div class="box"> <img class="img" src="sabbir10.png">  </img>
+       <div class="box"> <img class="img" src="sabbir10.png"> 
         <a class="btn" href=""> <b>WhatsApp:01891873630 </b>   </a>
 
         <br/>
@@ -249,7 +249,9 @@ function showSlides(n) {
         <p> Now, I am studying at a reputed college in Bangladesh. I have a dream to be a business magnet. After completing my study,I will start to fulfill my dream successful. </p>
             Here is my instagram id.You may contact me here if you need.You may also follow me.Thank you!
      
-            <br/>
+            
+         
+         <br></br>
          
          
          <a class="btn" href="https://www.instagram.com/shossainbd303/"> My Instagram  </a>
