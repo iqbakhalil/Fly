@@ -247,11 +247,8 @@ function showSlides(n) {
         <h1> Dream </h1>
         <h3> I want to be a professional businessman and entrepreneur  </h3>
         <p> Now, I am studying at a reputed college in Bangladesh. I have a dream to be a business magnet. After completing my study,I will start to fulfill my dream successful. </p>
-            Here is my instagram id.You may contact me here if you need.You may also follow me.Thank you!
+            <p>Here is my instagram id.You may contact me here if you need.You may also follow me.Thank you!</p>
      
-            
-         
-         <br></br>
          
          
          <a class="btn" href="https://www.instagram.com/shossainbd303/"> My Instagram  </a>
