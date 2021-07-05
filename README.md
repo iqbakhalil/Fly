@@ -1,2 +1,2 @@
-# Fly
- https://iqbakhalil.github.io/Fly/
+# Qwi
+ https://iqbakhalil.github.io/Qwi/
