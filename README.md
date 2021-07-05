@@ -68,12 +68,7 @@ body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: HD}
 img {vertical-align: middle right;}
 
-/* Slideshow container */
-.slideshow-container {
-  max-width: 680px;
-  position: Middle;
-  margin: auto;
-}
+
 
 /* Next & previous buttons */
 .prev, .next {
