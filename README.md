@@ -63,29 +63,6 @@ float: right;
 h3 {
 
 }
-* {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
-.mySlides {display: HD}
-img {vertical-align: middle right;}
-
-
-
-/* Next & previous buttons */
-.prev, .next {
-  cursor: pointer;
-  position: side corner;
-  top: 50%;
-  width: auto;
-  padding: 16px;
-  margin-top: -22px;
-  color: Green;
-  font-weight: bold;
-  font-size: 18px;
-  transition: 0.6s ease;
-  border-radius: 0 3px 3px 0;
-  user-select: none;
-}
-
 
 
 /* On hover, add a black background color with a little bit see-through */
